@@ -1,7 +1,6 @@
 {
-  "keys": {
-    "UI-ZPR6-6C7N-ZVFX": {
-      "cardKey": "CARD-EAKB-YA5U-388R"
-    }
+  "cards": {
+    "CARD-EAKB-YA5U-388R": true,
+    "CARD-EMDX-35BE-JKYJ": true
   }
 }
